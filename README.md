@@ -1,6 +1,6 @@
 
 # Curso básico de QGIS en el Cibernarium (Barcelona Activa) 
-#Tema 2 Composición de mapas
+## Tema 2 Composición de mapas
 https://cibernarium.barcelonactiva.cat/home
 
 #### Resumen del curso
