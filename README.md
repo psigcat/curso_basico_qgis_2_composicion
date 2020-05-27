@@ -1,6 +1,8 @@
 
 # Curso básico de QGIS
 
+### https://github.com/psigcat/curso_basico_qgis_2_composicion
+
 ## Tema 2 Composición de mapas
 https://cibernarium.barcelonactiva.cat/home
 
