@@ -23,7 +23,7 @@ http://psig.es/Curs_QGIS_basic_B_composicions.zip (117 MB)
 #### Aprenderás a hacer composiciones
 https://youtu.be/BAhmm31ecwM
 
-#### Aprenderás a crear mapas de situación (vista generla o mosca)
+#### Aprenderás a crear un mapa de situación (vista general o "mosca")
 https://youtu.be/FILyuaugT34
 
 #### Otros vídeos tutoriales en este canal
