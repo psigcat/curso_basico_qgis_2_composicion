@@ -31,3 +31,6 @@ http://www.youtube.com/c/CarlosLópezQuintanilla
 
 ### dudas y comentarios
 carlos.lopez@psig.es
+
+## Colabora con QGIS, hazte socio!
+www.qgis.es
